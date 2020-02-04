@@ -1,8 +1,15 @@
-## [Unreleased](https://github.com/frugan-it/docker-stilliard-pure-ftpd/compare/v1.0.0...HEAD)
+## [Unreleased](https://github.com/frugan-it/docker-stilliard-pure-ftpd/compare/v1.0.1...HEAD)
 
 ### Commits
 
-- Typo [`1d3ab3c`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/1d3ab3cb62f55eff554bfd6973de7e159e2c3056)
+- Updated docker-compose file [`1f2a963`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/1f2a96357f09170fbb58a7f30985f981bf14727f)
+- Merge tag 'v1.0.1' into develop [`043c746`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/043c74600855d757763423c8d0b64d5a3961325a)
+
+## [v1.0.1](https://github.com/frugan-it/docker-stilliard-pure-ftpd/compare/v1.0.0...v1.0.1) - 2020-02-04
+
+### Commits
+
+- Typo [`37a1a4d`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/37a1a4d13a9b90a30f2ebd3a10f93a632a4e66e4)
 - Merge tag 'v1.0.0' into develop [`76ea2e5`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/76ea2e50fa5bd910689774ba77a2cac741e2c260)
 
 ## v1.0.0 - 2020-02-04
