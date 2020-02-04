@@ -1,0 +1,26 @@
+version: '3.7'
+
+services:
+
+  pureftpd:
+    container_name: ${FTP_NAME}
+    build:
+      context: .
+      args:
+        PUREFTPD_TAG: ${FTP_TAG}
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    networks:
+      - default
+    environment:
+      PUBLICHOST: ${PUBLICHOST}
+      ADDED_FLAGS: ${ADDED_FLAGS}
+      FTP_USER_NAME: ${FTP_USER_NAME}
+      FTP_USER_PASS: ${FTP_USER_PASS}
+      FTP_USER_HOME: ${FTP_USER_HOME}
+      FTP_USER_UID: ${FTP_USER_UID}
+      FTP_USER_GID: ${FTP_USER_GID}
+      FTP_PASSIVE_PORTS: ${FTP_PASSIVE_PORTS}
+      FTP_MAX_CLIENTS: ${FTP_MAX_CLIENTS}
+      FTP_MAX_CONNECTIONS: ${FTP_MAX_CONNECTIONS}
