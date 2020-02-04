@@ -1,8 +1,16 @@
-## Unreleased
+## [Unreleased](https://github.com/frugan-it/docker-stilliard-pure-ftpd/compare/v1.0.0...HEAD)
+
+### Commits
+
+- Typo [`1d3ab3c`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/1d3ab3cb62f55eff554bfd6973de7e159e2c3056)
+- Merge tag 'v1.0.0' into develop [`76ea2e5`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/76ea2e50fa5bd910689774ba77a2cac741e2c260)
+
+## v1.0.0 - 2020-02-04
 
 ### Commits
 
 - Initial commit [`4a724ac`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/4a724acdaf2f567a42a3cde96d88086d38ee9449)
+- Updated CHANGELOG [`c22a052`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/c22a0525803b9ad6a330ceb598168dff200fcdc5)
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
