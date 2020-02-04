@@ -1,3 +1,3 @@
-ARG PUREFTPD_TAG
+ARG FTP_TAG
 
-FROM stilliard/pure-ftpd:${PUREFTPD_TAG:-latest}
+FROM stilliard/pure-ftpd:${FTP_TAG:-latest}
