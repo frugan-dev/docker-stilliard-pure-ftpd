@@ -1,8 +1,15 @@
-## [Unreleased](https://github.com/frugan-it/docker-stilliard-pure-ftpd/compare/v1.0.1...HEAD)
+## [Unreleased](https://github.com/frugan-it/docker-stilliard-pure-ftpd/compare/v1.0.2...HEAD)
 
 ### Commits
 
-- Updated docker-compose file [`1f2a963`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/1f2a96357f09170fbb58a7f30985f981bf14727f)
+- Updated ARG and ENV variables [`d9d982b`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/d9d982b21f7564eb3c01da4c3b46a6d6007d0d7e)
+- Merge tag 'v1.0.2' into develop [`a81a6e4`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/a81a6e420c64097fb4646e9a217983a99a76078b)
+
+## [v1.0.2](https://github.com/frugan-it/docker-stilliard-pure-ftpd/compare/v1.0.1...v1.0.2) - 2020-02-04
+
+### Commits
+
+- Updated docker-compose file [`bddc86e`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/bddc86e3eec724f345cf2d9ffa781b33ab84a9a9)
 - Merge tag 'v1.0.1' into develop [`043c746`](https://github.com/frugan-it/docker-stilliard-pure-ftpd/commit/043c74600855d757763423c8d0b64d5a3961325a)
 
 ## [v1.0.1](https://github.com/frugan-it/docker-stilliard-pure-ftpd/compare/v1.0.0...v1.0.1) - 2020-02-04
