@@ -2,7 +2,7 @@
 
 # Docker Stilliard Pure-ftpd
 
-Customization of the [Stilliard Pure-ftpd Docker image](https://www.github.com/stilliard/docker-pure-ftpd).
+Customization of [Stilliard Pure-ftpd Docker image](https://www.github.com/stilliard/docker-pure-ftpd).
 
 ### Contributing
 
